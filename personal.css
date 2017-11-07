@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: rgb(169,169,169);
+}
+
+.fa {
+	display: inline-block;
+	color: black;
+}
+
+.img-circle{
+	border-radius: 48%;
+	height: 70%;
+}
+
