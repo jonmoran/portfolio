@@ -3,7 +3,16 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	background-color: rgb(169,169,169);
 	margin: 0;
-	padding-top: 5px;
+	padding: 0;
+	height: 90%;
+	overflow-x: hidden;
+}
+
+.center {
+		width: 10%; 
+		margin-left: auto; 
+		margin-right: auto;
+		text-align: left;
 }
 
 .fa {
